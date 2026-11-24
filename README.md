@@ -13,7 +13,7 @@ Each lab adds one methodological layer — from data access to deep learning and
 
 ## Lab 1: Setup, authentication, data access
 
-*Google Colab Notebook:* https://colab.research.google.com/drive/1kdSxB3m3NTL4booz-w8FoCI7YFzpxDWU?usp=sharing
+*Google Colab Notebook:* notebooks/ml4sa2-lab1-20261121.ipynb
 
 *Datasets*
 
