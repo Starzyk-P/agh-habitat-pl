@@ -2,6 +2,7 @@
 **Machine Learning for Space Applications** (AGH 2025/26)
 
 **Unit 1** Lecture Notes: https://docs.google.com/presentation/d/17W8RGVWVtWXdpFaWRoi2YdaQiNi6jwB75h9dCrriN3g
+
 ---
 
 ## 🎯 Project goal
