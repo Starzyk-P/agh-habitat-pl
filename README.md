@@ -1,5 +1,5 @@
 # 🇵🇱 AGH Habitat-PL
-**Machine Learning for Space Applications** (AGH 2025/26)
+**Machine Learning for Space Applications** (AGH 2026/27)
 
 **Unit 1** Lecture Notes: https://docs.google.com/presentation/d/1bT0uOL82mPL-fwpKqzn0ZKPLf34X0R98ufMdEE1jdJw
 
